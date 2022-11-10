@@ -5,11 +5,11 @@
 
 ### This is Ali Aqdas
 
-- 🎓 I study Electrical Engineering at the National University of Sciences and Technology, Islamabad, Pakistan.
+- 🎓 Currently doing Bachelor's in Electrical Engineering at the National University of Sciences and Technology, Islamabad, Pakistan.
 
-- ⚡ As a power learner, I have worked in the field of Machine Learning, Embedded Software and Hardware Development.
+- ⚡ I have worked in the field of Machine Learning, Embedded Software and Hardware Development.
 
-- 🔭 I am a researcher, currently working on RISC-V Vector Extension.
+- 🔭 I am a researcher and power learner, currently working on RISC-V Vector Extension.
 
 
 <!-- Languages and tools -->
