@@ -5,7 +5,7 @@
 
 ### This is Ali Aqdas
 
-- 🎓 Currently doing Bachelor's in Electrical Engineering at the National University of Sciences and Technology, Islamabad, Pakistan.
+- 🎓  Did B.Engg Electrical Engineering at the National University of Sciences and Technology, Islamabad, Pakistan.
 
 - ⚡ I have worked in the field of Machine Learning, Embedded Software and Hardware Development.
 
