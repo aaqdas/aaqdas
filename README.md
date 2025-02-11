@@ -5,12 +5,11 @@
 
 ### This is Ali Aqdas
 
-- 🎓  Doing PhD Computer Science at Purdue 
-- 🎓  Did B.Engg Electrical Engineering at the National University of Sciences and Technology, Islamabad, Pakistan.
+- 🎓  At NextG Architecture Lab, PhD Computer Science, Purdue
 
 - ⚡ I have worked in the field of Machine Learning, Embedded Software and Hardware Development.
 
-- 🔭 I am a researcher and power learner, currently working on RISC-V Vector Extension.
+- 🔭 I am a researcher and power learner, currently working on network hardware for distributed ML training
 
 
 <!-- Languages and tools -->
