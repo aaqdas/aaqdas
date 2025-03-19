@@ -5,12 +5,11 @@
 
 ### This is Ali Aqdas
 
-- 🎓  At NextG Architecture Lab, PhD Computer Science, Purdue
+- 🎓  At SecArch Lab, PhD Computer Science, Purdue
 
 - ⚡ I have worked in the field of Machine Learning, Embedded Software and Hardware Development.
 
-- 🔭 I am a researcher and power learner, currently working on network hardware for distributed ML training
-
+- 🔭 I am a researcher and power learner, currently working on security in compute express link
 
 <!-- Languages and tools -->
 <h3 align="left">Languages and Tools:</h3>
